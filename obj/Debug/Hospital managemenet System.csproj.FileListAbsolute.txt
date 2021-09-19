@@ -1,0 +1,75 @@
+C:\Users\MAHIR\source\repos\Hospital managemenet System\bin\Debug\Hospital managemenet System.exe.config
+C:\Users\MAHIR\source\repos\Hospital managemenet System\bin\Debug\Hospital managemenet System.exe
+C:\Users\MAHIR\source\repos\Hospital managemenet System\bin\Debug\Hospital managemenet System.pdb
+C:\Users\MAHIR\source\repos\Hospital managemenet System\obj\Debug\Hospital managemenet System.csprojAssemblyReference.cache
+C:\Users\MAHIR\source\repos\Hospital managemenet System\obj\Debug\Hospital_managemenet_System.Form1.resources
+C:\Users\MAHIR\source\repos\Hospital managemenet System\obj\Debug\Hospital_managemenet_System.Form2.resources
+C:\Users\MAHIR\source\repos\Hospital managemenet System\obj\Debug\Hospital_managemenet_System.Properties.Resources.resources
+C:\Users\MAHIR\source\repos\Hospital managemenet System\obj\Debug\Hospital managemenet System.csproj.GenerateResource.cache
+C:\Users\MAHIR\source\repos\Hospital managemenet System\obj\Debug\Hospital managemenet System.exe
+C:\Users\MAHIR\source\repos\Hospital managemenet System\obj\Debug\Hospital managemenet System.pdb
+C:\Users\MAHIR\source\repos\Hospital managemenet System\obj\Debug\Hospital_managemenet_System.Form3.resources
+C:\Users\MAHIR\source\repos\Hospital managemenet System\obj\Debug\Hospital_managemenet_System.Receptionist_panel.resources
+C:\Users\MAHIR\source\repos\Hospital managemenet System\obj\Debug\Hospital_managemenet_System.Form4.resources
+C:\Users\MAHIR\source\repos\Hospital managemenet System\obj\Debug\Hospital_managemenet_System.Form7.resources
+C:\Users\MAHIR\source\repos\Hospital managemenet System\obj\Debug\Hospital_managemenet_System.Form8.resources
+C:\Users\MAHIR\source\repos\Hospital managemenet System\obj\Debug\Hospital_managemenet_System.Form12.resources
+C:\Users\MAHIR\source\repos\Hospital managemenet System\obj\Debug\Hospital_managemenet_System.Form10.resources
+C:\Users\MAHIR\source\repos\Hospital managemenet System\obj\Debug\Hospital_managemenet_System.Form9.resources
+C:\Users\MAHIR\source\repos\Hospital managemenet System\obj\Debug\Hospital_managemenet_System.Form5.resources
+C:\Users\MAHIR\source\repos\Hospital managemenet System\obj\Debug\Hospital_managemenet_System.Form6.resources
+E:\project\Hospital managemenet System\Hospital managemenet System\obj\Debug\Hospital managemenet System.csprojAssemblyReference.cache
+E:\project\Hospital managemenet System\Hospital managemenet System\obj\Debug\Hospital managemenet System.exe
+E:\project\Hospital managemenet System\Hospital managemenet System\obj\Debug\Hospital managemenet System.pdb
+C:\Users\ayshi\OneDrive\Desktop\re\Hospital managemenet System\Hospital managemenet System\bin\Debug\Hospital managemenet System.exe.config
+C:\Users\ayshi\OneDrive\Desktop\re\Hospital managemenet System\Hospital managemenet System\bin\Debug\Hospital managemenet System.exe
+C:\Users\ayshi\OneDrive\Desktop\re\Hospital managemenet System\Hospital managemenet System\bin\Debug\Hospital managemenet System.pdb
+C:\Users\ayshi\OneDrive\Desktop\re\Hospital managemenet System\Hospital managemenet System\obj\Debug\Hospital managemenet System.csprojAssemblyReference.cache
+C:\Users\ayshi\OneDrive\Desktop\re\Hospital managemenet System\Hospital managemenet System\obj\Debug\Hospital_managemenet_System.Form7.resources
+C:\Users\ayshi\OneDrive\Desktop\re\Hospital managemenet System\Hospital managemenet System\obj\Debug\Hospital_managemenet_System.Best_Doctors.resources
+C:\Users\ayshi\OneDrive\Desktop\re\Hospital managemenet System\Hospital managemenet System\obj\Debug\Hospital_managemenet_System.Best_Patients.resources
+C:\Users\ayshi\OneDrive\Desktop\re\Hospital managemenet System\Hospital managemenet System\obj\Debug\Hospital_managemenet_System.Form4.resources
+C:\Users\ayshi\OneDrive\Desktop\re\Hospital managemenet System\Hospital managemenet System\obj\Debug\Hospital_managemenet_System.Form8.resources
+C:\Users\ayshi\OneDrive\Desktop\re\Hospital managemenet System\Hospital managemenet System\obj\Debug\Hospital_managemenet_System.Form12.resources
+C:\Users\ayshi\OneDrive\Desktop\re\Hospital managemenet System\Hospital managemenet System\obj\Debug\Hospital_managemenet_System.Form10.resources
+C:\Users\ayshi\OneDrive\Desktop\re\Hospital managemenet System\Hospital managemenet System\obj\Debug\Hospital_managemenet_System.Stuff_Info.resources
+C:\Users\ayshi\OneDrive\Desktop\re\Hospital managemenet System\Hospital managemenet System\obj\Debug\Hospital_managemenet_System.Form9.resources
+C:\Users\ayshi\OneDrive\Desktop\re\Hospital managemenet System\Hospital managemenet System\obj\Debug\Hospital_managemenet_System.Form1.resources
+C:\Users\ayshi\OneDrive\Desktop\re\Hospital managemenet System\Hospital managemenet System\obj\Debug\Hospital_managemenet_System.Form2.resources
+C:\Users\ayshi\OneDrive\Desktop\re\Hospital managemenet System\Hospital managemenet System\obj\Debug\Hospital_managemenet_System.Form3.resources
+C:\Users\ayshi\OneDrive\Desktop\re\Hospital managemenet System\Hospital managemenet System\obj\Debug\Hospital_managemenet_System.Form5.resources
+C:\Users\ayshi\OneDrive\Desktop\re\Hospital managemenet System\Hospital managemenet System\obj\Debug\Hospital_managemenet_System.Properties.Resources.resources
+C:\Users\ayshi\OneDrive\Desktop\re\Hospital managemenet System\Hospital managemenet System\obj\Debug\Hospital_managemenet_System.Form6.resources
+C:\Users\ayshi\OneDrive\Desktop\re\Hospital managemenet System\Hospital managemenet System\obj\Debug\Hospital_managemenet_System.Receptionist_panel.resources
+C:\Users\ayshi\OneDrive\Desktop\re\Hospital managemenet System\Hospital managemenet System\obj\Debug\Hospital managemenet System.csproj.GenerateResource.cache
+C:\Users\ayshi\OneDrive\Desktop\re\Hospital managemenet System\Hospital managemenet System\obj\Debug\Hospital managemenet System.csproj.CoreCompileInputs.cache
+C:\Users\ayshi\OneDrive\Desktop\re\Hospital managemenet System\Hospital managemenet System\obj\Debug\Hospital managemenet System.exe
+C:\Users\ayshi\OneDrive\Desktop\re\Hospital managemenet System\Hospital managemenet System\obj\Debug\Hospital managemenet System.pdb
+C:\Users\ayshi\OneDrive\Desktop\re\Hospital managemenet System\Hospital managemenet System\obj\Debug\Hospital_managemenet_System.Presentation_layer.PatientReg.resources
+C:\Users\ayshi\OneDrive\Desktop\re\Hospital managemenet System\Hospital managemenet System\obj\Debug\Hospital_managemenet_System.Currentstatus.resources
+C:\Users\ASUS\Desktop\C#\Hospital managemenet System\obj\Debug\Hospital managemenet System.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\C#\Hospital managemenet System\obj\Debug\Hospital managemenet System.exe
+C:\Users\ASUS\Desktop\C#\Hospital managemenet System\obj\Debug\Hospital managemenet System.pdb
+C:\Users\ASUS\Desktop\C#\Hospital managemenet System\bin\Debug\Hospital managemenet System.exe.config
+C:\Users\ASUS\Desktop\C#\Hospital managemenet System\bin\Debug\Hospital managemenet System.exe
+C:\Users\ASUS\Desktop\C#\Hospital managemenet System\bin\Debug\Hospital managemenet System.pdb
+C:\Users\ASUS\Desktop\C#\Hospital managemenet System\obj\Debug\Hospital_managemenet_System.Currentstatus.resources
+C:\Users\ASUS\Desktop\C#\Hospital managemenet System\obj\Debug\Hospital_managemenet_System.Form7.resources
+C:\Users\ASUS\Desktop\C#\Hospital managemenet System\obj\Debug\Hospital_managemenet_System.Best_Doctors.resources
+C:\Users\ASUS\Desktop\C#\Hospital managemenet System\obj\Debug\Hospital_managemenet_System.Best_Patients.resources
+C:\Users\ASUS\Desktop\C#\Hospital managemenet System\obj\Debug\Hospital_managemenet_System.Form4.resources
+C:\Users\ASUS\Desktop\C#\Hospital managemenet System\obj\Debug\Hospital_managemenet_System.Form8.resources
+C:\Users\ASUS\Desktop\C#\Hospital managemenet System\obj\Debug\Hospital_managemenet_System.Form12.resources
+C:\Users\ASUS\Desktop\C#\Hospital managemenet System\obj\Debug\Hospital_managemenet_System.Presentation_layer.PatientReg.resources
+C:\Users\ASUS\Desktop\C#\Hospital managemenet System\obj\Debug\Hospital_managemenet_System.Form10.resources
+C:\Users\ASUS\Desktop\C#\Hospital managemenet System\obj\Debug\Hospital_managemenet_System.Stuff_Info.resources
+C:\Users\ASUS\Desktop\C#\Hospital managemenet System\obj\Debug\Hospital_managemenet_System.Form9.resources
+C:\Users\ASUS\Desktop\C#\Hospital managemenet System\obj\Debug\Hospital_managemenet_System.Form1.resources
+C:\Users\ASUS\Desktop\C#\Hospital managemenet System\obj\Debug\Hospital_managemenet_System.Form2.resources
+C:\Users\ASUS\Desktop\C#\Hospital managemenet System\obj\Debug\Hospital_managemenet_System.Form3.resources
+C:\Users\ASUS\Desktop\C#\Hospital managemenet System\obj\Debug\Hospital_managemenet_System.Form5.resources
+C:\Users\ASUS\Desktop\C#\Hospital managemenet System\obj\Debug\Hospital_managemenet_System.Properties.Resources.resources
+C:\Users\ASUS\Desktop\C#\Hospital managemenet System\obj\Debug\Hospital_managemenet_System.Form6.resources
+C:\Users\ASUS\Desktop\C#\Hospital managemenet System\obj\Debug\Hospital_managemenet_System.Receptionist_panel.resources
+C:\Users\ASUS\Desktop\C#\Hospital managemenet System\obj\Debug\Hospital managemenet System.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\C#\Hospital managemenet System\obj\Debug\Hospital managemenet System.csproj.CoreCompileInputs.cache
